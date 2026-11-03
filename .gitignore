@@ -1,0 +1,53 @@
+# ─── Local ───────────────────────────────────────────────
+*.DS_Store
+.idea/
+*.iml
+local.properties
+local.yml
+
+# ─── Gradle ──────────────────────────────────────────────
+.gradle/
+.kotlin/
+build/
+app/build/
+**/build/
+# gradle/wrapper/gradle-wrapper.jar 故意不忽略：缺少它时克隆后无法用 ./gradlew 构建
+
+# ─── NDK ─────────────────────────────────────────────────
+.cxx/
+obj/
+
+# ─── Android / Kotlin ────────────────────────────────────
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+*.log
+captures/
+*.hprof
+
+# ─── Secrets / Keys ──────────────────────────────────────
+# 不要把 API Key、Keystore 提交进仓库
+*.jks
+*.keystore
+keystore.properties
+google-services.json
+
+# ─── Builds / Outputs ────────────────────────────────────
+app/release/
+# 引入 scheme 变体后，Android Studio"生成签名 APK"按变体输出到这两个目录
+app/global/
+app/scoped/
+
+# Local Gradle user home/cache
+.gradle-home/
+
+# Custom Gradle Home
+.gradle_home/
+
+# ─── Build artefacts / crash logs ────────────────────────
+# 归档的构建日志体积大且可能包含本机路径/环境信息，不入库
+build_logs_archive/
+hs_err_pid*.log
+replay_pid*.log
