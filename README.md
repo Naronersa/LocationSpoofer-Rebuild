@@ -16,4 +16,5 @@ Global 本地方案 Android 8.0+（arm64）KernelSU + Zygisk Next + LSPosed(Magi
 ## 限制
 不同 ROM / 系统版本的 Native Hook 兼容性不同 只验证了小米10S(thyme)
 ## License
-GPL-3.0-or-later
+GPL-3.0-or-later [LICENSE](LICENSE)\
+源码包：[LocationSpoofer-rebuild-source.zip](LocationSpoofer-rebuild-source.zip)
