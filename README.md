@@ -6,7 +6,7 @@ A Rebuild Version of Former LocatonSpoofer V3.0.0
 上游仓库：[HuangZhuoRui/LocationSpoofer](https://github.com/HuangZhuoRui/LocationSpoofer)\
 上游许可证：https://github.com/HuangZhuoRui/LocationSpoofer/blob/main/LICENSE
 ## 简介
-Global 纯本地 Android 8.0+（arm64）KernelSU + Zygisk Next + LSPosed(Magisk + Zygisk/Zygisk Next + LSPosed未验证)
+Global 本地方案 Android 8.0+（arm64）KernelSU + Zygisk Next + LSPosed(Magisk + Zygisk/Zygisk Next + LSPosed未验证)
 ## 功能
 添加并改进了一些功能
 ## 地图与 Key
