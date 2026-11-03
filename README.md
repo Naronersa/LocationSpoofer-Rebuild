@@ -1,5 +1,5 @@
 # LocationSpoofer-Rebuild
-A Rebuild Version of Former LocatonSpoofer V3.0.0
+A Rebuild Version of Former LocationSpoofer V3.0.0
 ## 来源 / Upstream
 本项目基于原作者HuangZhuoRui/SuseOAA公开发布的 LocationSpoofer 3.0.0 源码（GPL-3.0）。独立社区重建版，不是官方版本，与原作者无隶属或背书关系。\
 上游维护者（GitHub）：[HuangZhuoRui](https://github.com/HuangZhuoRui)\
