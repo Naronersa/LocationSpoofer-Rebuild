@@ -20,4 +20,4 @@ APK 内含第三方地图 SDK，受其各自条款约束\
 不同 ROM / 系统版本的 Native Hook 兼容性不同 只验证了小米10S(thyme)
 ## License
 GPL-3.0 [LICENSE](LICENSE)\
-源码包：[LocationSpoofer-rebuild-source.zip](LocationSpoofer-rebuild-source.zip)
+源码包：[LocationSpoofer-rebuild-source.zip](LocationSpoofer-3.0.20-rebuild-source.zip)
