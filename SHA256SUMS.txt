@@ -1,4 +1,4 @@
 # Package: com.vincenthzr.locationspoofer.rebuild
 # Signer SHA-1: 9B:E4:9B:00:10:D8:A2:A1:47:AD:A4:46:CB:55:53:6A:3C:2F:9C:81
-07c5210d5a21f438841cae38edd2b30675433f3b0721a9a418b4785785a39006 *LocationSpoofer-global-release-fullmode-arm64-v8a.apk
-fe024d7e38a2d62d8f85e3d096cbc1bbcd471d76f6188e8b1692a04a45070d89 *LocationSpoofer-rebuild-source.zip
+82725864d847b8cecd6389f0290c85cb47652b4ce75b9810189cb9abef114581 *LocationSpoofer-global-release-fullmode-arm64-v8a.apk
+df9c61820730e181d5873f04f636d95c1aa5bff0008527a3852d54c21e924c99 *LocationSpoofer-3.0.20-rebuild-source.zip
